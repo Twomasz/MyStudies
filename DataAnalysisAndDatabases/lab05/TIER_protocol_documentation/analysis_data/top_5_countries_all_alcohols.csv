@@ -1,0 +1,16 @@
+,country,type_of_alcohol,quantity
+2,Andorra,beer_servings,245
+7,Andorra,spirit_servings,138
+12,Andorra,wine_servings,312
+0,Belarus,beer_servings,142
+5,Belarus,spirit_servings,373
+10,Belarus,wine_servings,42
+4,Czech Republic,beer_servings,361
+9,Czech Republic,spirit_servings,170
+14,Czech Republic,wine_servings,134
+3,Grenada,beer_servings,199
+8,Grenada,spirit_servings,438
+13,Grenada,wine_servings,28
+1,Lithuania,beer_servings,343
+6,Lithuania,spirit_servings,244
+11,Lithuania,wine_servings,56

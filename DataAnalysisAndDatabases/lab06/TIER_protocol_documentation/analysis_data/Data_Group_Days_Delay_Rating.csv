@@ -1,0 +1,535 @@
+Days_From_Purchase,Days_From_Purchase_Range,Brand,Buyer_Age,Buyer_Sex,Rating,Rating_Group
+0,do 2 dni,Dyson,45.0,M,3.5,Średnia
+1,do 2 dni,Dyson,43.0,M,1.0,Negatywna
+2,do 2 dni,Samsung,33.0,M,1.5,Negatywna
+2,do 2 dni,Beko,47.0,M,2.0,Średnia
+2,do 2 dni,Dyson,53.0,M,2.0,Średnia
+2,do 2 dni,Dyson,24.0,M,2.0,Średnia
+2,do 2 dni,Beko,,M,2.5,Średnia
+2,do 2 dni,Electrolux,38.0,M,2.5,Średnia
+2,do 2 dni,Beko,29.0,M,3.0,Średnia
+2,do 2 dni,Dyson,39.0,M,3.0,Średnia
+2,do 2 dni,Tefal,44.0,M,3.5,Średnia
+2,do 2 dni,Beko,52.0,M,4.0,Pozytywna
+2,do 2 dni,Electrolux,41.0,M,5.0,Pozytywna
+3,do 4 dni,Dyson,43.0,M,1.0,Negatywna
+3,do 4 dni,Dyson,46.0,M,1.0,Negatywna
+3,do 4 dni,Tefal,35.0,M,1.0,Negatywna
+3,do 4 dni,Beko,54.0,M,1.0,Negatywna
+3,do 4 dni,Dyson,48.0,M,1.0,Negatywna
+3,do 4 dni,Electrolux,41.0,M,1.5,Negatywna
+3,do 4 dni,Beko,,K,1.5,Negatywna
+3,do 4 dni,Electrolux,42.0,M,1.5,Negatywna
+3,do 4 dni,Beko,25.0,M,2.0,Średnia
+3,do 4 dni,Beko,42.0,M,2.0,Średnia
+3,do 4 dni,Electrolux,48.0,M,2.0,Średnia
+3,do 4 dni,Beko,47.0,M,2.0,Średnia
+3,do 4 dni,Electrolux,31.0,M,2.0,Średnia
+3,do 4 dni,Samsung,44.0,M,2.0,Średnia
+3,do 4 dni,Dyson,,M,2.0,Średnia
+3,do 4 dni,Tefal,51.0,M,2.5,Średnia
+3,do 4 dni,Beko,48.0,M,2.5,Średnia
+3,do 4 dni,Beko,49.0,bd.,2.5,Średnia
+3,do 4 dni,Electrolux,35.0,M,2.5,Średnia
+3,do 4 dni,Electrolux,41.0,M,3.0,Średnia
+3,do 4 dni,Dyson,,M,3.0,Średnia
+3,do 4 dni,Dyson,44.0,bd.,3.0,Średnia
+3,do 4 dni,Beko,53.0,M,3.0,Średnia
+3,do 4 dni,Dyson,,M,3.0,Średnia
+3,do 4 dni,Electrolux,19.0,K,3.0,Średnia
+3,do 4 dni,Tefal,41.0,M,3.0,Średnia
+3,do 4 dni,Electrolux,52.0,M,3.5,Średnia
+3,do 4 dni,Tefal,30.0,M,3.5,Średnia
+3,do 4 dni,Dyson,30.0,M,3.5,Średnia
+3,do 4 dni,Electrolux,49.0,K,3.5,Średnia
+3,do 4 dni,Tefal,27.0,M,4.0,Pozytywna
+3,do 4 dni,Dyson,49.0,M,4.0,Pozytywna
+3,do 4 dni,Electrolux,21.0,M,4.0,Pozytywna
+3,do 4 dni,Electrolux,44.0,M,4.0,Pozytywna
+3,do 4 dni,Beko,31.0,M,4.5,Pozytywna
+4,do 4 dni,Electrolux,37.0,M,1.0,Negatywna
+4,do 4 dni,Electrolux,18.0,M,1.0,Negatywna
+4,do 4 dni,Electrolux,50.0,K,1.0,Negatywna
+4,do 4 dni,Electrolux,29.0,M,1.0,Negatywna
+4,do 4 dni,Dyson,48.0,M,1.0,Negatywna
+4,do 4 dni,Electrolux,25.0,M,1.5,Negatywna
+4,do 4 dni,Electrolux,35.0,bd.,1.5,Negatywna
+4,do 4 dni,Tefal,,M,1.5,Negatywna
+4,do 4 dni,Dyson,,M,1.5,Negatywna
+4,do 4 dni,Electrolux,42.0,M,1.5,Negatywna
+4,do 4 dni,Tefal,25.0,M,1.5,Negatywna
+4,do 4 dni,Samsung,51.0,M,1.5,Negatywna
+4,do 4 dni,Tefal,46.0,M,2.0,Średnia
+4,do 4 dni,Electrolux,48.0,M,2.0,Średnia
+4,do 4 dni,Electrolux,33.0,M,2.0,Średnia
+4,do 4 dni,Electrolux,44.0,M,2.0,Średnia
+4,do 4 dni,Electrolux,30.0,bd.,2.0,Średnia
+4,do 4 dni,Beko,,M,2.5,Średnia
+4,do 4 dni,Electrolux,44.0,M,2.5,Średnia
+4,do 4 dni,Electrolux,40.0,M,2.5,Średnia
+4,do 4 dni,Beko,46.0,M,2.5,Średnia
+4,do 4 dni,Electrolux,50.0,M,2.5,Średnia
+4,do 4 dni,Dyson,34.0,M,3.0,Średnia
+4,do 4 dni,Electrolux,44.0,M,3.0,Średnia
+4,do 4 dni,Electrolux,29.0,M,3.5,Średnia
+4,do 4 dni,Electrolux,35.0,M,3.5,Średnia
+4,do 4 dni,Tefal,39.0,M,3.5,Średnia
+4,do 4 dni,Dyson,,M,3.5,Średnia
+4,do 4 dni,Beko,31.0,M,4.0,Pozytywna
+4,do 4 dni,Electrolux,34.0,K,4.0,Pozytywna
+4,do 4 dni,Electrolux,45.0,M,4.0,Pozytywna
+4,do 4 dni,Electrolux,36.0,M,4.0,Pozytywna
+4,do 4 dni,Electrolux,28.0,M,4.0,Pozytywna
+4,do 4 dni,Beko,24.0,M,4.0,Pozytywna
+4,do 4 dni,Electrolux,27.0,M,5.0,Pozytywna
+5,do tygodnia,Electrolux,61.0,M,1.0,Negatywna
+5,do tygodnia,Beko,41.0,M,1.0,Negatywna
+5,do tygodnia,Electrolux,27.0,M,1.0,Negatywna
+5,do tygodnia,Beko,38.0,M,1.0,Negatywna
+5,do tygodnia,Electrolux,30.0,M,1.0,Negatywna
+5,do tygodnia,Samsung,47.0,M,1.5,Negatywna
+5,do tygodnia,Beko,29.0,M,1.5,Negatywna
+5,do tygodnia,Electrolux,54.0,M,1.5,Negatywna
+5,do tygodnia,Electrolux,62.0,M,1.5,Negatywna
+5,do tygodnia,Electrolux,38.0,M,1.5,Negatywna
+5,do tygodnia,Electrolux,26.0,M,1.5,Negatywna
+5,do tygodnia,Electrolux,32.0,M,1.5,Negatywna
+5,do tygodnia,Dyson,28.0,M,1.5,Negatywna
+5,do tygodnia,Electrolux,30.0,K,1.5,Negatywna
+5,do tygodnia,Beko,53.0,M,2.0,Średnia
+5,do tygodnia,Beko,56.0,M,2.0,Średnia
+5,do tygodnia,Tefal,39.0,M,2.0,Średnia
+5,do tygodnia,Beko,43.0,M,2.0,Średnia
+5,do tygodnia,Electrolux,47.0,K,2.0,Średnia
+5,do tygodnia,Electrolux,49.0,M,2.0,Średnia
+5,do tygodnia,Beko,36.0,M,2.0,Średnia
+5,do tygodnia,Electrolux,20.0,M,2.0,Średnia
+5,do tygodnia,Tefal,38.0,M,2.0,Średnia
+5,do tygodnia,Dyson,38.0,M,2.5,Średnia
+5,do tygodnia,Dyson,,M,2.5,Średnia
+5,do tygodnia,Beko,32.0,M,2.5,Średnia
+5,do tygodnia,Electrolux,50.0,M,2.5,Średnia
+5,do tygodnia,Dyson,,M,2.5,Średnia
+5,do tygodnia,Beko,33.0,M,2.5,Średnia
+5,do tygodnia,Electrolux,48.0,M,2.5,Średnia
+5,do tygodnia,Electrolux,49.0,M,2.5,Średnia
+5,do tygodnia,Beko,,M,2.5,Średnia
+5,do tygodnia,Tefal,22.0,M,3.0,Średnia
+5,do tygodnia,Electrolux,45.0,M,3.0,Średnia
+5,do tygodnia,Tefal,,M,3.0,Średnia
+5,do tygodnia,Beko,36.0,M,3.0,Średnia
+5,do tygodnia,Tefal,32.0,M,3.0,Średnia
+5,do tygodnia,Electrolux,44.0,K,3.5,Średnia
+5,do tygodnia,Electrolux,41.0,M,3.5,Średnia
+5,do tygodnia,Electrolux,44.0,M,3.5,Średnia
+5,do tygodnia,Beko,35.0,bd.,3.5,Średnia
+5,do tygodnia,Dyson,,M,3.5,Średnia
+5,do tygodnia,Electrolux,51.0,bd.,3.5,Średnia
+5,do tygodnia,Dyson,38.0,K,3.5,Średnia
+5,do tygodnia,Electrolux,31.0,M,3.5,Średnia
+5,do tygodnia,Electrolux,,M,4.0,Pozytywna
+5,do tygodnia,Electrolux,42.0,M,4.0,Pozytywna
+5,do tygodnia,Electrolux,37.0,M,4.0,Pozytywna
+5,do tygodnia,Samsung,,M,4.0,Pozytywna
+5,do tygodnia,Tefal,,M,4.0,Pozytywna
+5,do tygodnia,Beko,32.0,M,4.0,Pozytywna
+5,do tygodnia,Electrolux,27.0,K,4.5,Pozytywna
+5,do tygodnia,Tefal,20.0,M,4.5,Pozytywna
+5,do tygodnia,Electrolux,34.0,K,5.0,Pozytywna
+5,do tygodnia,Electrolux,34.0,K,5.0,Pozytywna
+6,do tygodnia,Electrolux,43.0,M,0.5,Negatywna
+6,do tygodnia,Electrolux,39.0,M,0.5,Negatywna
+6,do tygodnia,Tefal,42.0,M,0.5,Negatywna
+6,do tygodnia,Electrolux,51.0,K,0.5,Negatywna
+6,do tygodnia,Dyson,42.0,M,0.5,Negatywna
+6,do tygodnia,Tefal,45.0,M,1.0,Negatywna
+6,do tygodnia,Dyson,,M,1.0,Negatywna
+6,do tygodnia,Tefal,51.0,M,1.0,Negatywna
+6,do tygodnia,Electrolux,39.0,M,1.0,Negatywna
+6,do tygodnia,Dyson,45.0,K,1.5,Negatywna
+6,do tygodnia,Beko,52.0,M,1.5,Negatywna
+6,do tygodnia,Electrolux,39.0,M,1.5,Negatywna
+6,do tygodnia,Dyson,22.0,M,1.5,Negatywna
+6,do tygodnia,Tefal,46.0,M,1.5,Negatywna
+6,do tygodnia,Tefal,,M,1.5,Negatywna
+6,do tygodnia,Beko,,M,1.5,Negatywna
+6,do tygodnia,Electrolux,29.0,M,1.5,Negatywna
+6,do tygodnia,Dyson,38.0,M,1.5,Negatywna
+6,do tygodnia,Samsung,40.0,M,1.5,Negatywna
+6,do tygodnia,Tefal,26.0,M,1.5,Negatywna
+6,do tygodnia,Tefal,39.0,K,1.5,Negatywna
+6,do tygodnia,Electrolux,20.0,M,1.5,Negatywna
+6,do tygodnia,Electrolux,26.0,M,2.0,Średnia
+6,do tygodnia,Tefal,37.0,K,2.0,Średnia
+6,do tygodnia,Dyson,43.0,M,2.0,Średnia
+6,do tygodnia,Tefal,28.0,M,2.0,Średnia
+6,do tygodnia,Electrolux,52.0,M,2.0,Średnia
+6,do tygodnia,Electrolux,,M,2.0,Średnia
+6,do tygodnia,Dyson,46.0,M,2.0,Średnia
+6,do tygodnia,Electrolux,,M,2.0,Średnia
+6,do tygodnia,Electrolux,34.0,M,2.0,Średnia
+6,do tygodnia,Dyson,49.0,M,2.0,Średnia
+6,do tygodnia,Dyson,37.0,M,2.0,Średnia
+6,do tygodnia,Beko,41.0,M,2.0,Średnia
+6,do tygodnia,Electrolux,33.0,M,2.0,Średnia
+6,do tygodnia,Tefal,33.0,M,2.5,Średnia
+6,do tygodnia,Beko,46.0,M,2.5,Średnia
+6,do tygodnia,Beko,20.0,M,2.5,Średnia
+6,do tygodnia,Samsung,41.0,M,2.5,Średnia
+6,do tygodnia,Electrolux,48.0,M,2.5,Średnia
+6,do tygodnia,Electrolux,46.0,M,2.5,Średnia
+6,do tygodnia,Beko,47.0,bd.,2.5,Średnia
+6,do tygodnia,Dyson,44.0,M,2.5,Średnia
+6,do tygodnia,Electrolux,,M,2.5,Średnia
+6,do tygodnia,Electrolux,53.0,M,2.5,Średnia
+6,do tygodnia,Electrolux,49.0,M,2.5,Średnia
+6,do tygodnia,Electrolux,48.0,M,2.5,Średnia
+6,do tygodnia,Dyson,42.0,M,2.5,Średnia
+6,do tygodnia,Samsung,43.0,M,2.5,Średnia
+6,do tygodnia,Beko,47.0,K,2.5,Średnia
+6,do tygodnia,Electrolux,49.0,M,2.5,Średnia
+6,do tygodnia,Electrolux,20.0,M,2.5,Średnia
+6,do tygodnia,Beko,53.0,M,2.5,Średnia
+6,do tygodnia,Electrolux,25.0,M,2.5,Średnia
+6,do tygodnia,Beko,23.0,M,2.5,Średnia
+6,do tygodnia,Beko,21.0,M,2.5,Średnia
+6,do tygodnia,Electrolux,29.0,M,2.5,Średnia
+6,do tygodnia,Dyson,39.0,M,2.5,Średnia
+6,do tygodnia,Beko,47.0,M,2.5,Średnia
+6,do tygodnia,Beko,43.0,M,2.5,Średnia
+6,do tygodnia,Electrolux,48.0,M,3.0,Średnia
+6,do tygodnia,Electrolux,30.0,M,3.0,Średnia
+6,do tygodnia,Beko,39.0,K,3.0,Średnia
+6,do tygodnia,Beko,45.0,M,3.0,Średnia
+6,do tygodnia,Dyson,26.0,K,3.0,Średnia
+6,do tygodnia,Dyson,41.0,M,3.0,Średnia
+6,do tygodnia,Samsung,40.0,M,3.5,Średnia
+6,do tygodnia,Tefal,57.0,M,3.5,Średnia
+6,do tygodnia,Beko,38.0,M,3.5,Średnia
+6,do tygodnia,Electrolux,38.0,M,3.5,Średnia
+6,do tygodnia,Electrolux,36.0,M,4.0,Pozytywna
+6,do tygodnia,Beko,36.0,M,4.0,Pozytywna
+6,do tygodnia,Dyson,56.0,M,4.0,Pozytywna
+6,do tygodnia,Tefal,34.0,M,4.0,Pozytywna
+6,do tygodnia,Beko,32.0,M,4.5,Pozytywna
+6,do tygodnia,Electrolux,39.0,M,4.5,Pozytywna
+6,do tygodnia,Electrolux,31.0,M,5.0,Pozytywna
+6,do tygodnia,Electrolux,27.0,M,5.0,Pozytywna
+7,do tygodnia,Beko,38.0,M,0.5,Negatywna
+7,do tygodnia,Electrolux,52.0,M,0.5,Negatywna
+7,do tygodnia,Tefal,,M,1.0,Negatywna
+7,do tygodnia,Beko,37.0,M,1.0,Negatywna
+7,do tygodnia,Electrolux,37.0,M,1.0,Negatywna
+7,do tygodnia,Samsung,58.0,M,1.0,Negatywna
+7,do tygodnia,Electrolux,,M,1.0,Negatywna
+7,do tygodnia,Dyson,48.0,K,1.0,Negatywna
+7,do tygodnia,Electrolux,31.0,M,1.0,Negatywna
+7,do tygodnia,Samsung,27.0,K,1.0,Negatywna
+7,do tygodnia,Electrolux,38.0,M,1.5,Negatywna
+7,do tygodnia,Electrolux,22.0,K,1.5,Negatywna
+7,do tygodnia,Beko,34.0,M,1.5,Negatywna
+7,do tygodnia,Electrolux,47.0,M,1.5,Negatywna
+7,do tygodnia,Beko,20.0,M,1.5,Negatywna
+7,do tygodnia,Beko,,M,1.5,Negatywna
+7,do tygodnia,Tefal,41.0,M,1.5,Negatywna
+7,do tygodnia,Electrolux,36.0,M,1.5,Negatywna
+7,do tygodnia,Samsung,50.0,bd.,1.5,Negatywna
+7,do tygodnia,Beko,65.0,M,1.5,Negatywna
+7,do tygodnia,Tefal,43.0,M,1.5,Negatywna
+7,do tygodnia,Electrolux,39.0,M,1.5,Negatywna
+7,do tygodnia,Electrolux,42.0,K,1.5,Negatywna
+7,do tygodnia,Tefal,,M,1.5,Negatywna
+7,do tygodnia,Dyson,47.0,M,1.5,Negatywna
+7,do tygodnia,Electrolux,,M,1.5,Negatywna
+7,do tygodnia,Beko,36.0,M,1.5,Negatywna
+7,do tygodnia,Beko,,K,1.5,Negatywna
+7,do tygodnia,Electrolux,49.0,M,1.5,Negatywna
+7,do tygodnia,Beko,32.0,M,1.5,Negatywna
+7,do tygodnia,Dyson,41.0,M,2.0,Średnia
+7,do tygodnia,Tefal,40.0,M,2.0,Średnia
+7,do tygodnia,Electrolux,33.0,M,2.0,Średnia
+7,do tygodnia,Electrolux,53.0,K,2.0,Średnia
+7,do tygodnia,Beko,28.0,M,2.0,Średnia
+7,do tygodnia,Electrolux,41.0,M,2.0,Średnia
+7,do tygodnia,Samsung,27.0,M,2.0,Średnia
+7,do tygodnia,Dyson,45.0,M,2.0,Średnia
+7,do tygodnia,Electrolux,,M,2.0,Średnia
+7,do tygodnia,Samsung,55.0,M,2.0,Średnia
+7,do tygodnia,Electrolux,38.0,M,2.0,Średnia
+7,do tygodnia,Electrolux,21.0,M,2.0,Średnia
+7,do tygodnia,Beko,35.0,M,2.0,Średnia
+7,do tygodnia,Tefal,,K,2.0,Średnia
+7,do tygodnia,Dyson,42.0,M,2.5,Średnia
+7,do tygodnia,Electrolux,51.0,M,2.5,Średnia
+7,do tygodnia,Beko,49.0,M,2.5,Średnia
+7,do tygodnia,Electrolux,,K,2.5,Średnia
+7,do tygodnia,Electrolux,25.0,M,2.5,Średnia
+7,do tygodnia,Beko,42.0,bd.,2.5,Średnia
+7,do tygodnia,Electrolux,24.0,M,2.5,Średnia
+7,do tygodnia,Electrolux,57.0,M,3.0,Średnia
+7,do tygodnia,Dyson,51.0,M,3.0,Średnia
+7,do tygodnia,Beko,42.0,M,3.0,Średnia
+7,do tygodnia,Dyson,43.0,M,3.0,Średnia
+7,do tygodnia,Electrolux,25.0,K,3.0,Średnia
+7,do tygodnia,Tefal,42.0,M,3.0,Średnia
+7,do tygodnia,Electrolux,35.0,M,3.0,Średnia
+7,do tygodnia,Beko,37.0,M,3.0,Średnia
+7,do tygodnia,Samsung,59.0,K,3.0,Średnia
+7,do tygodnia,Electrolux,42.0,M,3.0,Średnia
+7,do tygodnia,Beko,46.0,M,3.0,Średnia
+7,do tygodnia,Electrolux,50.0,M,3.0,Średnia
+7,do tygodnia,Beko,41.0,M,3.0,Średnia
+7,do tygodnia,Electrolux,39.0,K,3.0,Średnia
+7,do tygodnia,Electrolux,33.0,M,3.5,Średnia
+7,do tygodnia,Tefal,38.0,K,3.5,Średnia
+7,do tygodnia,Electrolux,52.0,M,3.5,Średnia
+7,do tygodnia,Beko,51.0,M,3.5,Średnia
+7,do tygodnia,Tefal,30.0,M,3.5,Średnia
+7,do tygodnia,Beko,48.0,M,3.5,Średnia
+7,do tygodnia,Electrolux,34.0,M,3.5,Średnia
+7,do tygodnia,Samsung,43.0,M,3.5,Średnia
+7,do tygodnia,Electrolux,43.0,M,3.5,Średnia
+7,do tygodnia,Dyson,40.0,M,3.5,Średnia
+7,do tygodnia,Beko,40.0,M,3.5,Średnia
+7,do tygodnia,Electrolux,31.0,M,4.0,Pozytywna
+7,do tygodnia,Beko,50.0,M,4.0,Pozytywna
+7,do tygodnia,Electrolux,,K,4.0,Pozytywna
+7,do tygodnia,Beko,25.0,M,4.0,Pozytywna
+7,do tygodnia,Dyson,37.0,M,4.0,Pozytywna
+7,do tygodnia,Electrolux,45.0,M,4.5,Pozytywna
+7,do tygodnia,Electrolux,36.0,M,4.5,Pozytywna
+7,do tygodnia,Electrolux,42.0,M,4.5,Pozytywna
+7,do tygodnia,Electrolux,54.0,M,4.5,Pozytywna
+7,do tygodnia,Beko,48.0,bd.,4.5,Pozytywna
+7,do tygodnia,Dyson,40.0,M,4.5,Pozytywna
+7,do tygodnia,Tefal,27.0,M,5.0,Pozytywna
+7,do tygodnia,Beko,56.0,M,5.0,Pozytywna
+7,do tygodnia,Electrolux,39.0,M,5.0,Pozytywna
+7,do tygodnia,Samsung,34.0,K,5.0,Pozytywna
+8,do 2 tygodni,Samsung,44.0,M,1.0,Negatywna
+8,do 2 tygodni,Dyson,,M,1.0,Negatywna
+8,do 2 tygodni,Electrolux,27.0,M,1.0,Negatywna
+8,do 2 tygodni,Beko,29.0,M,1.0,Negatywna
+8,do 2 tygodni,Tefal,29.0,M,1.0,Negatywna
+8,do 2 tygodni,Beko,26.0,M,1.0,Negatywna
+8,do 2 tygodni,Dyson,25.0,M,1.0,Negatywna
+8,do 2 tygodni,Beko,,M,1.5,Negatywna
+8,do 2 tygodni,Tefal,39.0,M,1.5,Negatywna
+8,do 2 tygodni,Electrolux,53.0,M,1.5,Negatywna
+8,do 2 tygodni,Electrolux,41.0,K,1.5,Negatywna
+8,do 2 tygodni,Tefal,,M,1.5,Negatywna
+8,do 2 tygodni,Beko,22.0,M,1.5,Negatywna
+8,do 2 tygodni,Beko,63.0,M,1.5,Negatywna
+8,do 2 tygodni,Tefal,44.0,M,1.5,Negatywna
+8,do 2 tygodni,Samsung,44.0,M,1.5,Negatywna
+8,do 2 tygodni,Beko,41.0,M,1.5,Negatywna
+8,do 2 tygodni,Samsung,39.0,M,1.5,Negatywna
+8,do 2 tygodni,Beko,38.0,M,2.0,Średnia
+8,do 2 tygodni,Electrolux,37.0,K,2.0,Średnia
+8,do 2 tygodni,Dyson,33.0,M,2.0,Średnia
+8,do 2 tygodni,Electrolux,43.0,M,2.0,Średnia
+8,do 2 tygodni,Electrolux,39.0,M,2.0,Średnia
+8,do 2 tygodni,Electrolux,38.0,K,2.0,Średnia
+8,do 2 tygodni,Dyson,38.0,M,2.0,Średnia
+8,do 2 tygodni,Dyson,,M,2.0,Średnia
+8,do 2 tygodni,Dyson,40.0,M,2.0,Średnia
+8,do 2 tygodni,Tefal,41.0,K,2.0,Średnia
+8,do 2 tygodni,Electrolux,,M,2.0,Średnia
+8,do 2 tygodni,Beko,50.0,M,2.0,Średnia
+8,do 2 tygodni,Beko,55.0,bd.,2.0,Średnia
+8,do 2 tygodni,Beko,,M,2.5,Średnia
+8,do 2 tygodni,Electrolux,20.0,M,2.5,Średnia
+8,do 2 tygodni,Electrolux,,M,2.5,Średnia
+8,do 2 tygodni,Dyson,56.0,K,2.5,Średnia
+8,do 2 tygodni,Electrolux,38.0,M,2.5,Średnia
+8,do 2 tygodni,Dyson,40.0,bd.,2.5,Średnia
+8,do 2 tygodni,Beko,31.0,M,2.5,Średnia
+8,do 2 tygodni,Electrolux,36.0,bd.,2.5,Średnia
+8,do 2 tygodni,Beko,39.0,M,3.0,Średnia
+8,do 2 tygodni,Dyson,55.0,M,3.0,Średnia
+8,do 2 tygodni,Electrolux,39.0,M,3.0,Średnia
+8,do 2 tygodni,Beko,37.0,M,3.0,Średnia
+8,do 2 tygodni,Beko,32.0,M,3.0,Średnia
+8,do 2 tygodni,Electrolux,39.0,M,3.0,Średnia
+8,do 2 tygodni,Beko,40.0,M,3.0,Średnia
+8,do 2 tygodni,Samsung,49.0,M,3.0,Średnia
+8,do 2 tygodni,Beko,42.0,M,3.0,Średnia
+8,do 2 tygodni,Electrolux,21.0,M,3.0,Średnia
+8,do 2 tygodni,Dyson,53.0,M,3.0,Średnia
+8,do 2 tygodni,Samsung,40.0,M,3.0,Średnia
+8,do 2 tygodni,Electrolux,36.0,M,3.0,Średnia
+8,do 2 tygodni,Dyson,,M,3.0,Średnia
+8,do 2 tygodni,Beko,42.0,M,3.0,Średnia
+8,do 2 tygodni,Dyson,53.0,M,3.5,Średnia
+8,do 2 tygodni,Electrolux,,M,3.5,Średnia
+8,do 2 tygodni,Beko,46.0,M,3.5,Średnia
+8,do 2 tygodni,Samsung,39.0,M,3.5,Średnia
+8,do 2 tygodni,Dyson,32.0,K,3.5,Średnia
+8,do 2 tygodni,Dyson,45.0,M,3.5,Średnia
+8,do 2 tygodni,Electrolux,45.0,M,4.0,Pozytywna
+8,do 2 tygodni,Beko,,M,4.0,Pozytywna
+8,do 2 tygodni,Beko,52.0,M,4.0,Pozytywna
+8,do 2 tygodni,Tefal,47.0,M,4.0,Pozytywna
+8,do 2 tygodni,Tefal,22.0,K,5.0,Pozytywna
+8,do 2 tygodni,Tefal,23.0,M,5.0,Pozytywna
+8,do 2 tygodni,Electrolux,27.0,M,5.0,Pozytywna
+8,do 2 tygodni,Tefal,36.0,M,5.0,Pozytywna
+9,do 2 tygodni,Tefal,58.0,M,0.0,Negatywna
+9,do 2 tygodni,Electrolux,29.0,M,0.5,Negatywna
+9,do 2 tygodni,Beko,52.0,M,1.0,Negatywna
+9,do 2 tygodni,Electrolux,,M,1.0,Negatywna
+9,do 2 tygodni,Samsung,45.0,M,1.0,Negatywna
+9,do 2 tygodni,Samsung,,M,1.0,Negatywna
+9,do 2 tygodni,Electrolux,53.0,M,1.0,Negatywna
+9,do 2 tygodni,Beko,46.0,M,1.5,Negatywna
+9,do 2 tygodni,Dyson,38.0,M,1.5,Negatywna
+9,do 2 tygodni,Tefal,33.0,M,1.5,Negatywna
+9,do 2 tygodni,Electrolux,41.0,K,1.5,Negatywna
+9,do 2 tygodni,Electrolux,,M,1.5,Negatywna
+9,do 2 tygodni,Dyson,49.0,M,1.5,Negatywna
+9,do 2 tygodni,Beko,42.0,K,1.5,Negatywna
+9,do 2 tygodni,Electrolux,26.0,K,1.5,Negatywna
+9,do 2 tygodni,Electrolux,57.0,K,1.5,Negatywna
+9,do 2 tygodni,Electrolux,50.0,M,2.0,Średnia
+9,do 2 tygodni,Samsung,26.0,bd.,2.0,Średnia
+9,do 2 tygodni,Dyson,21.0,K,2.0,Średnia
+9,do 2 tygodni,Electrolux,34.0,M,2.0,Średnia
+9,do 2 tygodni,Dyson,20.0,M,2.0,Średnia
+9,do 2 tygodni,Beko,50.0,M,2.0,Średnia
+9,do 2 tygodni,Electrolux,26.0,M,2.0,Średnia
+9,do 2 tygodni,Samsung,45.0,M,2.0,Średnia
+9,do 2 tygodni,Electrolux,42.0,K,2.0,Średnia
+9,do 2 tygodni,Samsung,31.0,M,2.0,Średnia
+9,do 2 tygodni,Beko,25.0,M,2.5,Średnia
+9,do 2 tygodni,Electrolux,31.0,M,2.5,Średnia
+9,do 2 tygodni,Electrolux,52.0,M,2.5,Średnia
+9,do 2 tygodni,Samsung,50.0,M,2.5,Średnia
+9,do 2 tygodni,Electrolux,61.0,M,2.5,Średnia
+9,do 2 tygodni,Dyson,41.0,M,2.5,Średnia
+9,do 2 tygodni,Beko,45.0,M,2.5,Średnia
+9,do 2 tygodni,Beko,26.0,M,3.0,Średnia
+9,do 2 tygodni,Electrolux,47.0,M,3.0,Średnia
+9,do 2 tygodni,Electrolux,54.0,M,3.0,Średnia
+9,do 2 tygodni,Electrolux,38.0,M,3.5,Średnia
+9,do 2 tygodni,Dyson,51.0,M,3.5,Średnia
+9,do 2 tygodni,Dyson,33.0,M,3.5,Średnia
+9,do 2 tygodni,Electrolux,,M,3.5,Średnia
+9,do 2 tygodni,Tefal,32.0,M,3.5,Średnia
+9,do 2 tygodni,Tefal,26.0,K,3.5,Średnia
+9,do 2 tygodni,Electrolux,33.0,M,4.0,Pozytywna
+9,do 2 tygodni,Electrolux,28.0,M,4.0,Pozytywna
+9,do 2 tygodni,Electrolux,,K,4.5,Pozytywna
+9,do 2 tygodni,Electrolux,44.0,M,5.0,Pozytywna
+9,do 2 tygodni,Electrolux,32.0,K,5.0,Pozytywna
+9,do 2 tygodni,Tefal,42.0,M,5.0,Pozytywna
+9,do 2 tygodni,Electrolux,44.0,K,5.0,Pozytywna
+10,do 2 tygodni,Dyson,38.0,M,0.0,Negatywna
+10,do 2 tygodni,Beko,49.0,M,0.0,Negatywna
+10,do 2 tygodni,Tefal,53.0,M,1.0,Negatywna
+10,do 2 tygodni,Beko,39.0,M,1.0,Negatywna
+10,do 2 tygodni,Beko,38.0,M,1.0,Negatywna
+10,do 2 tygodni,Tefal,41.0,M,1.5,Negatywna
+10,do 2 tygodni,Dyson,55.0,M,1.5,Negatywna
+10,do 2 tygodni,Electrolux,34.0,M,2.0,Średnia
+10,do 2 tygodni,Beko,,M,2.0,Średnia
+10,do 2 tygodni,Electrolux,27.0,M,2.0,Średnia
+10,do 2 tygodni,Beko,27.0,K,2.0,Średnia
+10,do 2 tygodni,Beko,,K,2.0,Średnia
+10,do 2 tygodni,Electrolux,37.0,M,2.0,Średnia
+10,do 2 tygodni,Beko,49.0,K,2.0,Średnia
+10,do 2 tygodni,Electrolux,,M,2.0,Średnia
+10,do 2 tygodni,Electrolux,46.0,M,2.0,Średnia
+10,do 2 tygodni,Electrolux,52.0,M,2.0,Średnia
+10,do 2 tygodni,Tefal,32.0,M,2.0,Średnia
+10,do 2 tygodni,Tefal,48.0,M,2.0,Średnia
+10,do 2 tygodni,Beko,35.0,M,2.5,Średnia
+10,do 2 tygodni,Electrolux,45.0,M,2.5,Średnia
+10,do 2 tygodni,Beko,33.0,M,2.5,Średnia
+10,do 2 tygodni,Electrolux,34.0,M,2.5,Średnia
+10,do 2 tygodni,Electrolux,39.0,K,2.5,Średnia
+10,do 2 tygodni,Electrolux,40.0,M,2.5,Średnia
+10,do 2 tygodni,Samsung,31.0,M,2.5,Średnia
+10,do 2 tygodni,Dyson,47.0,K,2.5,Średnia
+10,do 2 tygodni,Electrolux,37.0,M,2.5,Średnia
+10,do 2 tygodni,Electrolux,52.0,K,2.5,Średnia
+10,do 2 tygodni,Beko,38.0,M,2.5,Średnia
+10,do 2 tygodni,Beko,37.0,M,3.0,Średnia
+10,do 2 tygodni,Electrolux,30.0,M,3.0,Średnia
+10,do 2 tygodni,Dyson,59.0,M,3.0,Średnia
+10,do 2 tygodni,Beko,30.0,M,3.0,Średnia
+10,do 2 tygodni,Dyson,43.0,M,3.0,Średnia
+10,do 2 tygodni,Electrolux,39.0,M,3.5,Średnia
+10,do 2 tygodni,Beko,41.0,K,3.5,Średnia
+10,do 2 tygodni,Dyson,34.0,M,3.5,Średnia
+10,do 2 tygodni,Electrolux,43.0,M,3.5,Średnia
+10,do 2 tygodni,Electrolux,37.0,M,4.0,Pozytywna
+10,do 2 tygodni,Beko,41.0,M,4.0,Pozytywna
+10,do 2 tygodni,Beko,58.0,M,4.0,Pozytywna
+10,do 2 tygodni,Beko,,M,5.0,Pozytywna
+11,do 2 tygodni,Dyson,60.0,M,1.0,Negatywna
+11,do 2 tygodni,Electrolux,39.0,M,1.0,Negatywna
+11,do 2 tygodni,Samsung,48.0,M,1.0,Negatywna
+11,do 2 tygodni,Samsung,43.0,M,1.5,Negatywna
+11,do 2 tygodni,Electrolux,36.0,M,1.5,Negatywna
+11,do 2 tygodni,Electrolux,62.0,M,1.5,Negatywna
+11,do 2 tygodni,Dyson,55.0,M,2.0,Średnia
+11,do 2 tygodni,Dyson,,M,2.0,Średnia
+11,do 2 tygodni,Dyson,62.0,M,2.0,Średnia
+11,do 2 tygodni,Beko,26.0,M,2.0,Średnia
+11,do 2 tygodni,Beko,50.0,M,2.0,Średnia
+11,do 2 tygodni,Electrolux,45.0,M,2.0,Średnia
+11,do 2 tygodni,Tefal,55.0,K,2.5,Średnia
+11,do 2 tygodni,Electrolux,41.0,M,2.5,Średnia
+11,do 2 tygodni,Beko,41.0,M,2.5,Średnia
+11,do 2 tygodni,Tefal,31.0,M,2.5,Średnia
+11,do 2 tygodni,Beko,38.0,M,3.0,Średnia
+11,do 2 tygodni,Electrolux,54.0,M,3.0,Średnia
+11,do 2 tygodni,Beko,42.0,M,3.0,Średnia
+11,do 2 tygodni,Tefal,70.0,M,3.0,Średnia
+11,do 2 tygodni,Beko,35.0,M,3.5,Średnia
+11,do 2 tygodni,Beko,50.0,bd.,3.5,Średnia
+11,do 2 tygodni,Beko,32.0,M,4.0,Pozytywna
+11,do 2 tygodni,Dyson,39.0,M,4.0,Pozytywna
+11,do 2 tygodni,Electrolux,47.0,K,4.5,Pozytywna
+11,do 2 tygodni,Electrolux,35.0,K,5.0,Pozytywna
+12,do 2 tygodni,Electrolux,47.0,M,1.5,Negatywna
+12,do 2 tygodni,Tefal,,M,1.5,Negatywna
+12,do 2 tygodni,Beko,44.0,M,1.5,Negatywna
+12,do 2 tygodni,Samsung,53.0,M,2.0,Średnia
+12,do 2 tygodni,Electrolux,42.0,M,2.0,Średnia
+12,do 2 tygodni,Electrolux,45.0,M,2.0,Średnia
+12,do 2 tygodni,Electrolux,37.0,M,2.5,Średnia
+12,do 2 tygodni,Electrolux,36.0,K,2.5,Średnia
+12,do 2 tygodni,Samsung,39.0,K,2.5,Średnia
+12,do 2 tygodni,Dyson,42.0,K,2.5,Średnia
+12,do 2 tygodni,Dyson,,M,2.5,Średnia
+12,do 2 tygodni,Electrolux,31.0,K,2.5,Średnia
+12,do 2 tygodni,Electrolux,43.0,M,2.5,Średnia
+12,do 2 tygodni,Tefal,45.0,M,3.5,Średnia
+12,do 2 tygodni,Tefal,29.0,M,4.0,Pozytywna
+12,do 2 tygodni,Beko,27.0,M,4.0,Pozytywna
+12,do 2 tygodni,Electrolux,,M,4.0,Pozytywna
+12,do 2 tygodni,Tefal,45.0,M,4.5,Pozytywna
+13,do 2 tygodni,Electrolux,40.0,M,1.0,Negatywna
+13,do 2 tygodni,Tefal,34.0,K,1.0,Negatywna
+13,do 2 tygodni,Electrolux,49.0,M,1.0,Negatywna
+13,do 2 tygodni,Beko,32.0,M,1.0,Negatywna
+13,do 2 tygodni,Electrolux,,M,2.0,Średnia
+13,do 2 tygodni,Tefal,43.0,K,2.0,Średnia
+13,do 2 tygodni,Electrolux,32.0,M,2.5,Średnia
+13,do 2 tygodni,Electrolux,42.0,M,3.0,Średnia
+13,do 2 tygodni,Tefal,,M,3.0,Średnia
+13,do 2 tygodni,Beko,53.0,M,3.5,Średnia
+13,do 2 tygodni,Electrolux,,M,4.0,Pozytywna
+14,do 2 tygodni,Dyson,45.0,M,0.0,Negatywna
+14,do 2 tygodni,Beko,31.0,M,1.5,Negatywna
+14,do 2 tygodni,Dyson,46.0,M,1.5,Negatywna
+14,do 2 tygodni,Samsung,,M,2.0,Średnia
+14,do 2 tygodni,Samsung,46.0,M,2.0,Średnia
+14,do 2 tygodni,Electrolux,,M,2.0,Średnia
+14,do 2 tygodni,Tefal,44.0,K,2.5,Średnia
+14,do 2 tygodni,Tefal,41.0,M,3.0,Średnia
+14,do 2 tygodni,Beko,47.0,M,3.0,Średnia
+15,powyżej 2 tygodni,Electrolux,44.0,K,1.5,Negatywna
+15,powyżej 2 tygodni,Electrolux,50.0,M,3.0,Średnia
+15,powyżej 2 tygodni,Beko,21.0,K,3.5,Średnia
