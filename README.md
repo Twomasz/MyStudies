@@ -9,18 +9,18 @@
 # Content:
 
 ### 1. Machine Learning
-**lab01:** Introduction <br />
-**lab02:** Linear regression <br />
-**lab03:** Logistic regression <br />
-**lab04:** Classification <br />
-**lab05:** Regularisation <br />
-**lab06:** SVM <br />
-**lab07:** Clustering <br />
-**lab08:** Anomaly detection <br />
-**lab09:** Ensemble methods <br />
-**lab10:** PCA <br />
-**lab11:** Introduction to neural networks <br />
-**lab12:** Unsupervised networks <br />
+**Lab01:** Introduction <br />
+**Lab02:** Linear regression <br />
+**Lab03:** Logistic regression <br />
+**Lab04:** Classification <br />
+**Lab05:** Regularisation <br />
+**Lab06:** SVM <br />
+**Lab07:** Clustering <br />
+**Lab08:** Anomaly detection <br />
+**Lab09:** Ensemble methods <br />
+**Lab10:** PCA <br />
+**Lab11:** Introduction to neural networks <br />
+**Lab12:** Unsupervised networks <br />
 
 ### 2. Data Analysis and Databases
 **Lab02:** Simple queries <br />
